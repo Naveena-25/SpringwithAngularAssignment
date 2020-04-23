@@ -15,7 +15,6 @@ import org.springframework.web.bind.annotation.RestController;
 import com.capgemini.angularproject.bean.ProductInfo;
 import com.capgemini.angularproject.bean.ProductResponse;
 import com.capgemini.angularproject.service.ProductServiceImpl;
-import com.capgemini.springrest.bean.EmployeeResponse;
 
 @RestController
 public class ProductRestController {
